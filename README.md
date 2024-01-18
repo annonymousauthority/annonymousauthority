@@ -22,7 +22,7 @@
   - 👨🏾‍💻 I am a software developer. I build backend systems with Golang | Nodejs. I write frontend mobile and web applications with Native iOS Swift,
     flutter and Vuejs frameworks. <br>
   - 👨🏾‍💼 I have been writing codes for about 10years. <br>
-  - 📫 Reach me via email : augustinerepos@gmail.com, or twitter [@_talentseeker](https://www.twitter.com/_talentseeker) 
+  - 📫 Reach me via email : augustinerepos@gmail.com, or twitter [@_talentseeker](https://www.twitter.com/_augustine_francis) 
   - 
 </div>
 
